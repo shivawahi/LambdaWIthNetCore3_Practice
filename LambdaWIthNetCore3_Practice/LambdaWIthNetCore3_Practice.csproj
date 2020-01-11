@@ -3,6 +3,8 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <AWSProjectType>Lambda</AWSProjectType>
+    <!--<TieredCompilation>false</TieredCompilation>
+    <PublishReadyToRun>true</PublishReadyToRun>-->
   </PropertyGroup>
 
   <ItemGroup>
