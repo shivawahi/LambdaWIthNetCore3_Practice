@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -9,6 +9,7 @@ using LambdaWIthNetCore3_Practice.Services;
 namespace LambdaWIthNetCore3_Practice.Controllers
 {
     //Adding comment - modified in temp branch
+	// Trying to commit
     [Route("api/[controller]")]
     public class ShoppingListController : Controller
     {
